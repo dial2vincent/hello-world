@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for cloudlee Lab DevOps CICD pipeline</h1>
+    <h1>New user Register for the cloudlee Lab DevOps CICD pipeline</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
